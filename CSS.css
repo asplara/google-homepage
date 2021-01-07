@@ -9,9 +9,17 @@
     display: block;
     text-align: center;
     position: fixed;
-    top: 50%;
+    top: 45%;
     left: 50%;
     transform: translate(-50%, -50%);
+}
+
+.round {
+    border-color: rgb(216, 216, 216);
+    border-radius: 30px;
+    border-width: thin;
+    height: 40px;
+    width: 570px;
 }
 
 .nav a{
