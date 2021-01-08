@@ -76,11 +76,14 @@ button2 {
     font-family: arial,sans-serif;
     font-size: 14px;
     border: none;
-    margin: 25px;
+    margin: 15px;
     padding: 10px;
-    width: 50%;
     margin-left: 25%;
     background-color: rgb(250, 250, 250);
+    position: fixed;
+    top: 50%;
+    margin-left: 450px;
+    
 }
 
 button3 {
@@ -88,5 +91,12 @@ button3 {
     font-family: arial,sans-serif;
     font-size: 14px;
     border: none;
+    margin: 15px;
+    padding: 10px;
     background-color: rgb(250, 250, 250);
+    position: fixed;
+    top: 50%;
+    margin-left: 600px;
+  
 }
+
