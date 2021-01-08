@@ -1,0 +1,1 @@
+by recreating the google website, I built on my prior knowledge of CSS and HTMl and now have a better understanding of GIT and Github.
